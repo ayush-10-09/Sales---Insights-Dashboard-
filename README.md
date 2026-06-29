@@ -6,7 +6,7 @@ This project is an interactive Sales & Insights Dashboard created using Microsof
 ---
 
 ## Dashboard Preview
-![Dashboard Overview](Screenshot_20260629_191056_My%20Files.jpg)
+![Dashboard Overview](Screenshot_20260629_191232_My%20Files.jpg)
 
 ---
 
@@ -25,7 +25,7 @@ The dashboard includes:
 
 ## Delivery Time Analysis
 
-![Delivery Time Analysis](Screenshot_20260629_191232_My%20Files.jpg)
+![Delivery Time Analysis](Screenshot_20260629_191056_My%20Files.jpg)
 
 
 ---
