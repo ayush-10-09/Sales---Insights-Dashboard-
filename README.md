@@ -10,7 +10,7 @@ This project is an interactive Sales & Insights Dashboard created using Microsof
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 The dashboard includes:
 
@@ -23,7 +23,7 @@ The dashboard includes:
 
 ---
 
-## 📉 Delivery Time Analysis
+## Delivery Time Analysis
 
 ![Delivery Time Analysis](Screenshot_20260629_191232_My%20Files.jpg)
 
