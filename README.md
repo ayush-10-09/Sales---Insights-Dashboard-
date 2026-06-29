@@ -1,5 +1,14 @@
 # Sales & Insights Dashboard (Microsoft Excel)
 
+## Download Dashboard
+
+Download the Excel dashboard here:
+
+- [Sales_Report_Final-1.xlsx](Sales_Report_Final-1.xlsx)
+
+
+---
+
 ## Project Overview
 This project is an interactive Sales & Insights Dashboard created using Microsoft Excel. It analyzes sales performance, delivery time, product contribution, city trends, customer membership and courier partner performance to provide meaningful business insights.
 
@@ -29,14 +38,7 @@ The dashboard includes:
 
 
 ---
-## Download Dashboard
 
-Download the Excel dashboard here:
-
-- [Sales_Report_Final-1.xlsx](Sales_Report_Final-1.xlsx)
-
-
----
 
 ## Tools Used
 
