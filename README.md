@@ -29,6 +29,14 @@ The dashboard includes:
 
 
 ---
+## Download Dashboard
+
+Download the Excel dashboard here:
+
+- [Sales_Report_Final-1.xlsx](Sales_Report_Final-1.xlsx)
+
+
+---
 
 ## Tools Used
 
